@@ -3,7 +3,11 @@
 - [Welcome](welcome.md)
 
 - [Prefix Commands](./commands/prefix/basic.md)
-    - [Tools](./Commands/Prefix/Tools.md)
+    - [Super-Hero](./commands/prefix/superhero.md)
 
-- [Slash Commands](./Commands/Slash/1_Intro.md)
-    - [Tools](./Commands/ToolsSL.md)
+- [Slash Commands](./commands/slash/basicsl.md)
+    - [Super-Hero](./commands/slash/superherosl.md)
+    - [Apex-Land](./commands/slash/apexlandsl.md)
+    - [Music Bot](./commands/slash/musicsl.md)
+
+- [Road Map](./roadmap.md)
