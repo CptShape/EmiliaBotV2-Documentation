@@ -2,4 +2,5 @@
 
 - SQL komutlarını düzelt
 - help komutu ekle
-- müzik botu kusursuzlaştır
+
+- Müzik komutlarına Debug Print'ler eklencek ve commentler düzenlencek.
